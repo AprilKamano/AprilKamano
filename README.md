@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AprilKamano
 - 👀 I’m interested in Software delveloper, frontend, software architecture
-- 🌱 I’m currently learning B.Tech in computer science engineering, Html,Css,javascript, cybersecurity
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning Bachelor in Computer applications, Html,Css,Python
+- 💞️ I’m looking to collaborate on projects and learning
 - 📫 How to reach me aprilkamano@outlook.com
 
 <!---
