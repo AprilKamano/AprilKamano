@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AprilKamano
-- 👀 I’m interested in Software delveloper, frontend, software architecture
+- 👀 I’m interested in Software delveloper, frontend, AI
 - 🌱 I’m currently learning Bachelor in Computer applications, Html,Css,Python
 - 💞️ I’m looking to collaborate on projects and learning
 - 📫 How to reach me aprilkamano@outlook.com
